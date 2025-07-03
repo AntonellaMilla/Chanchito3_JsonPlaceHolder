@@ -16,13 +16,13 @@ git clone https://github.com/AntonellaMilla/Chanchito3_JsonPlaceHolder.git
 
 2. Entra a la carpeta del proyecto
 
-bash
+
 cd Chanchito3_JsonPlaceHolder1
 
 
 3. Instala las dependencias
 
-bash
+
 npm install
 
 
