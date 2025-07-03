@@ -40,20 +40,8 @@ Luego abre tu navegador en:
 Estructura del Proyecto
 
 
-Chanchito3_JsonPlaceHolder1/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── store/
-│   ├── utils/
-│   ├── App.jsx
-│   └── main.jsx
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
+![image](https://github.com/user-attachments/assets/bebcb259-43a0-4a4e-84fe-8c708e3db223)
+
 
 
 
