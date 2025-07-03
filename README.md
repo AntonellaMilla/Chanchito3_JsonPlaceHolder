@@ -11,7 +11,7 @@ https://chanchito3-json-place-holder.vercel.app/
 
 ### 1. Clona el repositorio
 
-git clone https://github.com/tu-usuario/Chanchito3_JsonPlaceHolder1.git
+git clone https://github.com/AntonellaMilla/Chanchito3_JsonPlaceHolder.git
 ````
 
 ### 2. Entra a la carpeta del proyecto
