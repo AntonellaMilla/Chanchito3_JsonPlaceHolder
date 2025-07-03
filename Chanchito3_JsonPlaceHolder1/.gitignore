@@ -1,32 +1,49 @@
-# Logs
-logs
-*.log
+# 📦 Node modules (pesados y regenerables)
+node_modules/
+
+# ⚙️ Entorno local (tokens, claves API, etc.)
+.env
+.env.local
+.env.*.local
+
+# 🏗 Archivos de compilación
+dist/
+build/
+
+# 🧪 Logs y depuración
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# 🧹 Archivos de cache
+.vite/
+.cache/
+coverage/
+*.log
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
+# 🔄 Editor/IDE configs
+.vscode/
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
 
-
-
-node_modules/
-.env*
-dist/
+# 🗑 Archivos del sistema
 .DS_Store
-*.log
+Thumbs.db
+
+# 💅 Formatters
+.prettiercache
+
+# 🚀 Deploys locales (Netlify/Vercel/etc.)
+.vercel
+.netlify
+output/
+
+# 🔍 Lint
+eslintReport.*
+
+# 💬 Otros
+*.local
+*.lock-wscript
